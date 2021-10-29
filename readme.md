@@ -22,3 +22,10 @@ https://stackoverflow.com/questions/68775869/support-for-password-authentication
 git config --global user.name "your_github_username"
 git config --global user.email "your_github_email"
 git config -l
+
+mais comandos git
+git checkout -b  serve para criação de um branch
+git checkout serve para alternar entre branches
+
+git status ver o status da branch
+
