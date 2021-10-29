@@ -30,3 +30,8 @@ git checkout serve para alternar entre branches
 git status ver o status da branch
 
 git push origin nomedabranch serve para subir os arquivos, quando se esta na main não é preciso do origin porém quando se esta em outra branch é necessario especificar qual é ela.
+
+
+Video explcação git 
+https://www.youtube.com/watch?v=UBAX-13g8OM
+tempo 27:00
